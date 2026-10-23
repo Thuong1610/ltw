@@ -1,0 +1,15 @@
+.user-detail-fields {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  gap: 8px 24px;
+  margin: 16px 0 24px;
+}
+
+.user-detail-fields dt {
+  font-weight: 500;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+.user-detail-fields dd {
+  margin: 0;
+}

@@ -1,0 +1,14 @@
+.topbar-appBar {
+  height: 60px;
+  justify-content: center;
+}
+
+.topbar-toolbar {
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.topbar-context {
+  min-width: 200px;
+  text-align: right;
+}
